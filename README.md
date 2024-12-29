@@ -36,3 +36,23 @@ Multi-Role Functionality: Offers distinct features for students (attendance, stu
 ![image](https://github.com/SRIMATHTIRUMALA/Implementation-of-Chatbot-Using-NLP/blob/main/Screenshot%20(8).png)
 
 
+![image](https://github.com/SRIMATHTIRUMALA/Implementation-of-Chatbot-Using-NLP/blob/main/Screenshot%20(11).png)
+
+
+![image](https://github.com/SRIMATHTIRUMALA/Implementation-of-Chatbot-Using-NLP/blob/main/Screenshot%20(2).png)
+
+
+![image](https://github.com/SRIMATHTIRUMALA/Implementation-of-Chatbot-Using-NLP/blob/main/Screenshot%20(4).png)
+
+
+![image](https://github.com/SRIMATHTIRUMALA/Implementation-of-Chatbot-Using-NLP/blob/main/Screenshot%20(5).png)
+
+
+![image](https://github.com/SRIMATHTIRUMALA/Implementation-of-Chatbot-Using-NLP/blob/main/Screenshot%20(8).png)
+
+
+![image](https://github.com/SRIMATHTIRUMALA/Implementation-of-Chatbot-Using-NLP/blob/main/Screenshot%20(9).png)
+
+
+
+
