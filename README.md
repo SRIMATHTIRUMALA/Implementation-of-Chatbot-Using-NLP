@@ -6,13 +6,28 @@ Faculty Features: Uploading study materials (PDFs), checking student attendance.
 Parent Features: Asking questions about college-related topics (admissions, fees, timings, etc.).
 Multilingual Support: The chatbot supports multiple languages, including English, Telugu, and Hindi, ensuring accessibility for all users.
 
+---
 
-#Project Overview
+# Project Overview
 
 This project aims to develop an interactive chatbot for PB Siddhartha College, designed to assist students, faculty, and parents with various tasks and queries.
 
-#Key Features:
+# Key Features:
 
 User-Friendly Interface: Streamlit-based interface for intuitive interaction with the chatbot.
 Multilingual Support: Supports English, Telugu, and Hindi, ensuring accessibility for all users.
-Multi-Role Functionality: Offers distinct features for students (attendance, study materials), faculty (attendance marking, material uploads), and parents (question answering).
+Multi-Role Functionality: Offers distinct features for students (attendance, study materials), faculty (attendance marking, material uploads), and parents (question answering.
+
+---
+
+
+# Tech Stack
+
+- **Programming Language: Python**
+- **Framework: Streamlit**
+- **Libraries: pandas, NLTK, Googletrans**
+- **Operating System: Windows, macOS, Linux**
+
+
+# Streamlit App
+
